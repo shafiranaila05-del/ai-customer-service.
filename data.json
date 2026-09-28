@@ -1,0 +1,136 @@
+{
+  "store": {
+    "name": "Smart Retail",
+    "tagline": "Toko Elektronik & Aksesori Terpercaya",
+    "hours": {
+      "weekdays": "Senin - Sabtu: 08.00 - 20.00 WIB",
+      "weekend": "Minggu / Tanggal Merah: Libur"
+    },
+    "open_days": [1, 2, 3, 4, 5, 6],
+    "open_hour": 8,
+    "close_hour": 20,
+    "shipping_policy": "Pesanan sebelum jam 15.00 WIB dikirim di hari yang sama.",
+    "return_policy": "Garansi 7 hari retur jika ada cacat produksi (wajib video unboxing)."
+  },
+  "categories": ["Semua", "Audio", "Kabel & Aksesori", "Pelindung Layar", "Charger"],
+  "products": [
+    {
+      "id": 1,
+      "name": "Headset Bluetooth Olike",
+      "category": "Audio",
+      "price": 150000,
+      "stock": 25,
+      "warranty": "6 Bulan",
+      "description": "Headset Bluetooth nirkabel dengan kualitas suara jernih, nyaman dipakai, baterai tahan lama hingga 8 jam.",
+      "image_icon": "🎧",
+      "tags": ["headset", "bluetooth", "olike", "audio", "wireless"]
+    },
+    {
+      "id": 2,
+      "name": "USB Cable Micro Robot",
+      "category": "Kabel & Aksesori",
+      "price": 25000,
+      "stock": 50,
+      "warranty": "1 Bulan",
+      "description": "Kabel USB Micro berkualitas tinggi dari Robot, mendukung pengisian daya dan transfer data cepat.",
+      "image_icon": "🔌",
+      "tags": ["kabel", "usb", "micro", "robot", "cable", "charging"]
+    },
+    {
+      "id": 3,
+      "name": "Tempered Glass Infinix Hot 50i",
+      "category": "Pelindung Layar",
+      "price": 35000,
+      "stock": 10,
+      "warranty": "Tidak ada",
+      "description": "Tempered glass antigores untuk Infinix Hot 50i, ketebalan 0.3mm, lapisan oleophobic anti sidik jari.",
+      "image_icon": "📱",
+      "tags": ["tempered glass", "infinix", "hot 50i", "pelindung layar", "anti gores"]
+    },
+    {
+      "id": 4,
+      "name": "Charger Fast Charging 20W",
+      "category": "Charger",
+      "price": 85000,
+      "stock": 0,
+      "warranty": "3 Bulan",
+      "description": "Charger dengan teknologi Fast Charging 20W, pengisian daya super cepat, kompatibel berbagai perangkat.",
+      "image_icon": "⚡",
+      "tags": ["charger", "fast charging", "20w", "pengisi daya", "adaptor"]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 1,
+      "keywords": ["jam", "buka", "tutup", "operasional", "open", "close"],
+      "question": "Jam operasional toko?",
+      "answer": "Toko kami buka **Senin - Sabtu pukul 08.00 - 20.00 WIB**. Hari Minggu dan Tanggal Merah kami libur. 🕗"
+    },
+    {
+      "id": 2,
+      "keywords": ["kirim", "pengiriman", "hari ini", "same day", "ekspedisi", "delivery"],
+      "question": "Kapan pesanan dikirim?",
+      "answer": "Pesanan yang masuk **sebelum pukul 15.00 WIB** akan dikirim di hari yang sama. Pesanan setelah jam 15.00 WIB akan dikirim keesokan harinya. 🚚"
+    },
+    {
+      "id": 3,
+      "keywords": ["retur", "return", "garansi toko", "cacat", "rusak", "refund", "kembalikan"],
+      "question": "Bagaimana kebijakan retur?",
+      "answer": "Kami memberikan **garansi retur 7 hari** jika produk mengalami cacat produksi. Syaratnya wajib menyertakan **video unboxing** sebagai bukti kondisi barang saat diterima. 📦"
+    },
+    {
+      "id": 4,
+      "keywords": ["harga", "berapa", "price", "cost", "biaya"],
+      "question": "Berapa harga produk?",
+      "answer": "Berikut daftar harga produk kami:\n- 🎧 Headset Bluetooth Olike: **Rp 150.000**\n- 🔌 USB Cable Micro Robot: **Rp 25.000**\n- 📱 Tempered Glass Infinix Hot 50i: **Rp 35.000**\n- ⚡ Charger Fast Charging 20W: **Rp 85.000** (stok habis)"
+    },
+    {
+      "id": 5,
+      "keywords": ["stok", "stock", "tersedia", "ada", "ready", "habis"],
+      "question": "Apakah produk masih stok?",
+      "answer": "Status stok produk kami saat ini:\n- 🎧 Headset Bluetooth Olike: ✅ Tersedia (25 unit)\n- 🔌 USB Cable Micro Robot: ✅ Tersedia (50 unit)\n- 📱 Tempered Glass Infinix Hot 50i: ✅ Tersedia (10 unit)\n- ⚡ Charger Fast Charging 20W: ❌ Stok Habis"
+    },
+    {
+      "id": 6,
+      "keywords": ["headset", "olike", "bluetooth", "earphone", "audio"],
+      "question": "Info Headset Bluetooth Olike?",
+      "answer": "🎧 **Headset Bluetooth Olike**\n- Harga: **Rp 150.000**\n- Stok: **25 unit** (Tersedia)\n- Garansi: **6 Bulan**\n- Kualitas suara jernih, nyaman dipakai, baterai tahan 8 jam."
+    },
+    {
+      "id": 7,
+      "keywords": ["kabel", "usb", "micro", "robot", "cable"],
+      "question": "Info USB Cable Micro Robot?",
+      "answer": "🔌 **USB Cable Micro Robot**\n- Harga: **Rp 25.000**\n- Stok: **50 unit** (Tersedia)\n- Garansi: **1 Bulan**\n- Mendukung pengisian daya & transfer data cepat."
+    },
+    {
+      "id": 8,
+      "keywords": ["tempered", "glass", "infinix", "hot 50i", "anti gores", "pelindung"],
+      "question": "Info Tempered Glass Infinix Hot 50i?",
+      "answer": "📱 **Tempered Glass Infinix Hot 50i**\n- Harga: **Rp 35.000**\n- Stok: **10 unit** (Tersedia)\n- Garansi: Tidak ada\n- Ketebalan 0.3mm, lapisan anti sidik jari."
+    },
+    {
+      "id": 9,
+      "keywords": ["charger", "fast charging", "20w", "adaptor", "cas"],
+      "question": "Info Charger Fast Charging 20W?",
+      "answer": "⚡ **Charger Fast Charging 20W**\n- Harga: **Rp 85.000**\n- Stok: ❌ **Habis**\n- Garansi: **3 Bulan**\n\nMohon maaf, stok charger sedang kosong. Anda bisa cek kembali nanti atau tanyakan rekomendasi produk lain. 🙏"
+    },
+    {
+      "id": 10,
+      "keywords": ["rekomendasi", "saran", "suggest", "murah", "terbaik", "bagus"],
+      "question": "Rekomendasi produk?",
+      "answer": "Tentu! Berikut rekomendasi produk kami yang tersedia:\n\n💡 **Budget rendah (<Rp 50.000):**\n- USB Cable Micro Robot (Rp 25.000)\n- Tempered Glass Infinix Hot 50i (Rp 35.000)\n\n🏆 **Pilihan terbaik:**\n- Headset Bluetooth Olike (Rp 150.000) - Garansi 6 bulan!\n\nAda kebutuhan spesifik? Ceritakan saja! 😊"
+    },
+    {
+      "id": 11,
+      "keywords": ["halo", "hai", "hi", "hello", "selamat", "alo", "hei"],
+      "question": "Sapaan",
+      "answer": "Halo! Selamat datang di **Smart Retail** 👋\n\nSaya siap membantu Anda. Silakan tanyakan informasi seputar:\n- 📦 Produk & Stok\n- 💰 Harga\n- 🚚 Pengiriman\n- 🔄 Garansi & Retur\n- 🕗 Jam Operasional"
+    },
+    {
+      "id": 12,
+      "keywords": ["terima kasih", "makasih", "thanks", "thank you", "thx"],
+      "question": "Terima kasih",
+      "answer": "Sama-sama! Terima kasih sudah berbelanja di **Smart Retail** 🙏\n\nJangan ragu untuk bertanya jika ada hal lain yang perlu dibantu. Selamat berbelanja! 🛍️"
+    }
+  ]
+}
